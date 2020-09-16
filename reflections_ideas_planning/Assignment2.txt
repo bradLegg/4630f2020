@@ -1,1 +1,56 @@
+Bradley Legg
+Assignment #2 - Reflections, ideas, and planning
+COMP.4630 Mobile App Development 1
 
+1. Based on the reports of your fellow classmates during last night's
+class (2020-09-09), please briefly summarize any new ideas for apps to
+solve people's problems that you have come up with as a result of
+listening to other students.
+---
+1A: During the class discussion there were too many ideas to count and many of them
+gave me some more options to think about. Some of the ideas that seemed to have 
+potential as a mobile app were the automated transcriptor (for business), the notes
+organizer app, and friends meetup app for meetups at optimal travel distance for each 
+person involved (suggestions of places or businesses to meet at as well). The automated 
+transcript app could identify different speakers and provide the user access to all
+meeting information discussed at a later date. The notes organizer app could take 
+notes quickly taken down during a lecture and put reformat them into a more 
+"studyable" format.
+
+2. Several people mentioned the "conflict" between the desire to have
+a free app, and developers' desire (and need) to get compensated. Can
+you suggest any ways by which developers can reap their creativity's
+and efforts' rewards without alienating their "customer base" by
+inundating with ads and/or charging them.
+---
+2A: To avoid annoying the users with ads, developers can employ subscription services,
+in app purchases, and selling merchandise or physical products with all of these as
+optional (or required for subscription services) choices for the user. One of the most
+poopular models is the freemium model, which gives users basic features for free and 
+requires a payment for full access. These days almost every app requires a login and
+some data to be given to them, which they can make money off of as is.
+
+3. Please point to any app/software/website that offers in your
+opinion an excellent UI/UX. Briefly explain in what ways you find its
+UI/UX to be so good.
+---
+3A: A well known app I happen to think has great UI/UX is Reddit. Reddit provides users 
+access to news, topics they are interested in, and popular posts trending around the
+internet in a topbar menu on a single page. The UI is simple, sleek, and uncluttered.
+As for the UX, Reddit provides countless community hosted pages for varying topics 
+where the user can crowdsource information for questions or to use as a platform to
+share content. The simplicity of the menu and value of the information and 
+entertainment keeps the users coming back to Reddit day after day.
+
+*The ads on Reddit are easy to scroll past and they do not ruin the experience.
+
+4. Have last night's class discussions and/or items #1-3 gotten you
+closer toward a mobile app you would like to pursue as a project for
+this course? Please discuss briefly.
+---
+4A: These topics have made me think more about the significant aspects of a successful app.
+In these three questions, two topics come to mind: ad-free (or less frequent unforced ads) 
+as a source of revenue, a mixture of good UI/UX to keep the users coming back. There are 
+plenty of examples of successful apps that we can all learn from to use as a basic for our
+own designs. I am still leaning towards the automated transcripting app for business as I 
+think this kind of app could be improved upon and become popular if designed well-enough.
