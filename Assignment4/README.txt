@@ -2,4 +2,6 @@ I was not able to figure out how to upload a file into the app because I do not 
 
 The zip file contains all android studio resources needed to run the application instance.
 
+The "impress me" requirement was done via the use of the button.
+
 Thanks.
